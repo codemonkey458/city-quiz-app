@@ -10,7 +10,7 @@ const delhiMonumentQuestions = [
     {
       id: 2,
       imageId: "del789012",
-      question: "In which year was Red Fort completed?",
+      question: "In which year was Taj Mahal completed?",
       options: ["1648", "1707", "1739", "1857"],
       correctAnswer: "1648",
       explanation: "Red Fort was completed in 1648 during Shah Jahan's reign"
